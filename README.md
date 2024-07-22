@@ -1,4 +1,4 @@
-# office365-troubleshooting
+# Office 365-Troubleshooting
 
 This repository contains troubleshooting steps for common issues faced in Outlook, Teams, and OneDrive applications in Office 365.
 
