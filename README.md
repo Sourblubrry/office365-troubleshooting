@@ -22,4 +22,5 @@ Navigate to the respective application folder to find the list of common issues 
 
 ## Future Implimentations
 
-In the near future, this project will include other common applications such as Word, Powerpoint, and Excel.
+Shortly, this project will include other common applications such as Word, PowerPoint, and Excel.
+Also, there will be an image folder where you will be able to follow along while troubleshooting.
